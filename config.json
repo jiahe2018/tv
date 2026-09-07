@@ -105,12 +105,6 @@
       "name": "🔞souavZY",
       "api": "https://api.souavzyw.net/api.php/provide/vod",
       "detail": "https://api.souavzyw.net"
-    },
-    "custom_category": [
-      {
-      "name": "华语",
-      "type": "movie",
-      "query": "华语"
     }
   ]
 }
