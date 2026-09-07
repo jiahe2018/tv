@@ -58,12 +58,32 @@
       "name": "魔都资源"
     },
     "zuid": {
-      "api": "https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod",
+      "api": "https://apilj.com/api.php/provide/vod",
       "name": "最大资源"
     },
     "yinghua": {
       "api": "https://api.douapi.cc/api.php/provide/vod",
       "name": "樱花资源"
+    },
+    "yinghua": {
+      "api": "https://www.heiliaozyapi.com/api.php/provide/vod",
+      "name": "🔞黑料资源"
+    },
+    "yinghua": {
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+      "name": "🔞细胞资源"
+    },
+    "yinghua": {
+      "api": "https://www.xiangjiaozyw.com/api.php/provide/vod",
+      "name": "🔞香蕉资源"
+    },
+    "yinghua": {
+      "api": "https://apiyutu.com/api.php/provide/vod",
+      "name": "🔞玉兔资源"
+    },
+    "yinghua": {
+      "api": "https://155api.com/api.php/provide/vod",
+      "name": "🔞155-资源"
     }
   }
 }
